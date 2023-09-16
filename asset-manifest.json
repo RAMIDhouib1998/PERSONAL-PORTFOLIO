@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PERSONAL-PORTFOLIO/static/css/main.428630bc.css",
-    "main.js": "/PERSONAL-PORTFOLIO/static/js/main.1bee33ba.js",
+    "main.js": "/PERSONAL-PORTFOLIO/static/js/main.f3b65afe.js",
     "static/js/787.fb771931.chunk.js": "/PERSONAL-PORTFOLIO/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/PERSONAL-PORTFOLIO/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/PERSONAL-PORTFOLIO/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -22,10 +22,10 @@
     "static/media/react.svg": "/PERSONAL-PORTFOLIO/static/media/react.47c1a676786bbf4c9f9489694b1a5eaf.svg",
     "static/media/meter3.svg": "/PERSONAL-PORTFOLIO/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/logo.svg": "/PERSONAL-PORTFOLIO/static/media/logo.d70b3a8bbbe0c9a34a9e3ce44685bd7a.svg",
+    "static/media/nav-icon6.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon6.1d47d521a0e8b03138663d2a9cf778ff.svg",
     "static/media/cloud.svg": "/PERSONAL-PORTFOLIO/static/media/cloud.9f3e67f0b961bbc88efb8411ed881432.svg",
     "static/media/nav-icon8.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon8.7efbd1d28e8b20aca6c8b226df35c835.svg",
     "static/media/css.svg": "/PERSONAL-PORTFOLIO/static/media/css.b08964e9c22aa4c93bb01bd4d7a23165.svg",
-    "static/media/nav-icon6.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon6.1407e0a898c573a7a2b693c1afa6eb47.svg",
     "static/media/nav-icon4.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon4.7391587dd8cc85bd92b3ceda533a05fb.svg",
     "static/media/nav-icon3.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/nav-icon7.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon7.820ee06dbe5ca452b367d213f0b10f74.svg",
@@ -37,11 +37,11 @@
     "static/media/arrow1.svg": "/PERSONAL-PORTFOLIO/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/PERSONAL-PORTFOLIO/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.428630bc.css.map": "/PERSONAL-PORTFOLIO/static/css/main.428630bc.css.map",
-    "main.1bee33ba.js.map": "/PERSONAL-PORTFOLIO/static/js/main.1bee33ba.js.map",
+    "main.f3b65afe.js.map": "/PERSONAL-PORTFOLIO/static/js/main.f3b65afe.js.map",
     "787.fb771931.chunk.js.map": "/PERSONAL-PORTFOLIO/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.428630bc.css",
-    "static/js/main.1bee33ba.js"
+    "static/js/main.f3b65afe.js"
   ]
 }
