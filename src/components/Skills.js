@@ -4,6 +4,8 @@ import meter3 from "../assets/img/meter3.svg";
 import html from "../assets/img/html.svg";
 import css from "../assets/img/css.svg";
 import cloud from "../assets/img/cloud.svg";
+import EE from "../assets/img/EE.svg";
+import Angular from "../assets/img/Angular.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
@@ -45,8 +47,8 @@ export const Skills = () => {
                                 <h5>Java Spring</h5>
                             </div>
                             <div className="item">
-                                <img src={react} alt="Image" />
-                                <h5>Reactjs</h5>
+                                <img src={Angular} alt="Image" />
+                                <h5>Angular</h5>
                             </div>
                             <div className="item">
                                 <img src={html} alt="Image" />
@@ -55,6 +57,10 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={css} alt="Image" />
                                 <h5>CSS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={react} alt="Image" />
+                                <h5>Reactjs</h5>
                             </div>
                             <div className="item">
                                 <img src={cloud} alt="Image" />

@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Rami`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "App Developer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Hello, I'm Rami Dhouib, a dedicated Software Engineer at IBM based in Magdeburg, Germany, with a strong focus on web and app development. I am passionate about crafting innovative solutions and thrive on tackling complex challenges. With a diligent work ethic and unwavering concentration, I consistently deliver high-quality results that exceed expectations. I take pride in my ability to turn ideas into tangible, user-friendly software applications that drive success.</p>
+                  <p>Hello, I'm Rami Dhouib, a dedicated full-stack engineer.I am familiar with agile workflow and can contribute to developing websites either as a full-stack engineer, backend, or frontend.I can comminucate well in englich and german and have good skills in java spring,java EE , angular and other technologies. </p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
